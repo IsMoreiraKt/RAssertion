@@ -1,2 +1,2 @@
-# rapt
-A library of primary type assertions for the Rust language.
+# RTest
+A testing framework for the Rust language.
